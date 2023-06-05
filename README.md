@@ -28,7 +28,7 @@ Users should be able to:
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
 
-- Live Site URL: [](https://tomli0421.github.io/Results-summary-component/)
+- Live Site URL: [https://tomli0421.github.io/Results-summary-component/](https://tomli0421.github.io/Results-summary-component/)
 
 ## My process
 

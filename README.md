@@ -8,6 +8,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Author](#author)
 
 ## Overview
 
@@ -25,8 +26,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+
+- Live Site URL: [live site URL](https://tomli0421.github.io/Results-summary-component/)
 
 ## My process
 

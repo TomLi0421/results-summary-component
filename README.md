@@ -42,5 +42,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [TomLi0421](https://github.com/TomLi0421)
+- Personal Website - [https://tomli0421.github.io/Personal-site/](https://tomli0421.github.io/Personal-site/)
+- GitHub - [TomLi0421](https://github.com/TomLi0421)
 - Frontend Mentor - [@TomLi0421](https://www.frontendmentor.io/profile/TomLi0421)

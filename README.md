@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/TomLi0421/Results-summary-component](https://github.com/TomLi0421/Results-summary-component)
-- Live Site URL: [https://tomli0421.github.io/Results-summary-component/](https://tomli0421.github.io/Results-summary-component/)
+- Solution URL: [https://github.com/TomLi0421/results-summary-component](https://github.com/TomLi0421/results-summary-component)
+- Live Site URL: [https://tomli0421.github.io/results-summary-component/](https://tomli0421.github.io/results-summary-component/)
 
 ## My process
 
